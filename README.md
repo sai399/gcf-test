@@ -1,2 +1,2 @@
 # gcf-test
-GCF testing via version 2
+GCF testing via webhook Version 3 with Slack Integration
